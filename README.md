@@ -1,2 +1,2 @@
 # Demo
-Its only for learn.
+This Project is only for learn.
